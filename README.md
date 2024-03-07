@@ -15,4 +15,3 @@ A few resource:
 - [What is CMake?](https://cgold.readthedocs.io/en/latest/overview/cmake-can.html)
 - [CMake Homepage](cmake.org)
 
-
